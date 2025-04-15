@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aviv1\\source\\repos\\WebServer_Ex3\\WebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C794A0-0CA2-46B3-8D80-0327892521B6}|WebServer\\WebServer.vcxproj|C:\\Users\\aviv1\\source\\repos\\WebServer_Ex3\\WebServer\\WebServer\\MethodImp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C794A0-0CA2-46B3-8D80-0327892521B6}|WebServer\\WebServer.vcxproj|solutionrelative:WebServer\\MethodImp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MethodImp.cpp",
+              "DocumentMoniker": "C:\\Users\\aviv1\\source\\repos\\WebServer_Ex3\\WebServer\\WebServer\\MethodImp.cpp",
+              "RelativeDocumentMoniker": "WebServer\\MethodImp.cpp",
+              "ToolTip": "C:\\Users\\aviv1\\source\\repos\\WebServer_Ex3\\WebServer\\WebServer\\MethodImp.cpp",
+              "RelativeToolTip": "WebServer\\MethodImp.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T08:15:45.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
