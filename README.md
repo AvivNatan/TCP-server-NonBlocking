@@ -1,6 +1,6 @@
-# Time Server
+# WEB Server
 
-This project is a simple Time Server implemented in C++ using Winsock2. The server listens for incoming connections and handles various HTTP methods such as GET, POST, PUT, DELETE, HEAD, TRACE, and OPTIONS.
+The Time Server project is a robust network server implemented in C++14, utilizing the Winsock2 library for efficient socket communication. This server is designed to handle multiple client connections simultaneously, supporting various HTTP methods such as GET, POST, PUT, DELETE, HEAD, TRACE, and OPTIONS. It employs non-blocking I/O operations to ensure smooth and responsive performance, even under heavy load. Additionally, the server includes timeout management to close inactive connections, optimizing resource usage. This project showcases my skills in network programming, C++ development, and handling real-time data communication.
 
 ## Features
 
